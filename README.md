@@ -67,7 +67,7 @@ Em [issues](https://github.com/Diana-ops/rental-cars-treina-dev-1/issues) é pos
 
 ## Contribuintes 
 
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width="115"><br/><em>Diana Regina</em>](https://github.com/Diana-ops) |
+[<img src="https://avatars3.githubusercontent.com/u/12284488?s=460&u=4ea9e73230c29fe71b235d6f23937750136b124d&v=4" width="115"><br/><em>Elza Simões</em>](https://github.com/elzasimoes) |
 | ------ |
 
 
